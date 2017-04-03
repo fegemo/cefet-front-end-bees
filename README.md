@@ -207,7 +207,12 @@ em **Perguntas Feitas com Frequência**. A seguir, veja algumas questões que
 podem surgir ao fazer este exercício, bem como as suas respostas.
 
 ### Como descobrir uma cor?
-...
+
+Você pode usar um editor de imagens como Paint.NET, Pinta, Gimp, Photoshop. Ou então, você pode abrir as **"ferramentas do desenvolvedor"** do navegador (_e.g._, Chrome, Firefox) e escolher uma cor por lá.
+
+Veja como isso foi feito nos slides da aula [CSS parte 1][escolhendo-cores].
+
+[escolhendo-cores]: https://fegemo.github.io/cefet-front-end/classes/css1/#escolhendo-cores
 
 ### Como faço para parar a música????
 
