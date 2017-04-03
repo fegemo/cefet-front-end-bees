@@ -55,6 +55,7 @@ está ficando. Se quiser **parar a música**, veja como fazê-lo no [FAQ](#faq).
      apenas a logomarca
      - Para lembrar como fazer isto, veja a explicação sobre
        [seletor de _tag_ _vs_ seletor de `id`][id-selector]
+       - Ou seja, atribua um `id` para essa imagem e use-o para estilizá-la
      - E também relembre como [centralizar imagens][centering-imgs]
 
 Até este ponto, a página inicial deve estar mais ou menos assim:
