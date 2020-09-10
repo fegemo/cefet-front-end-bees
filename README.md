@@ -149,7 +149,7 @@ essas novas classes, _e.g._:
 Nas páginas `operarias.html` e `zangoes.html` há um parágrafo,
 o último, que contém um _link_ para voltar à página inicial.
 
-Estilize esse parágrafo alinhando-o à direita.
+Estilize esse parágrafo alinhando-o à direita ([como alinhar texto de um parágrafo?](https://fegemo.github.io/cefet-front-end/classes/html1/#css-alinhamentoTexto)).
 
 ### Exercício 6: Criando a página `rainha.html`
 
