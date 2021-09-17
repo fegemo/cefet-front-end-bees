@@ -217,7 +217,7 @@ _tag_ ou (b) referenciar um arquivo JavaScript que já existe.
 Use **<u>esta última</u> opção** e inclua o arquivo `abelhinha.js`
 **logo antes do final do `<body>...</body>`**.
 
-[pesquisa-script]: http://lmgtfy.com/?q=como+inserir+javascript+na+p%C3%A1gina+html
+[pesquisa-script]: https://www.google.com/search?q=como+inserir+javascript+no+html&sxsrf=AOaemvIdD0vyn9Bm8uYc8aRsCaaS-_3WQQ%3A1631906717071&source=hp&ei=netEYZJs1arWxA_ukZDoBA&iflsig=ALs-wAMAAAAAYUT5rTy1gylKhvbEGWSTCJyyWQm73Qhx&oq=como+inserir+javascript&gs_lcp=Cgdnd3Mtd2l6EAMYADIFCAAQgAQyBQgAEIAEMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB46BwgjEOoCECc6BAgjECc6BggjECcQEzoLCC4QgAQQsQMQgwE6CwgAEIAEELEDEIMBOg4ILhCABBCxAxDHARCjAjoRCC4QgAQQsQMQgwEQxwEQowI6CwguEIAEEMcBEKMCOgUILhCABDoICC4QgAQQsQM6CAgAEIAEELEDOgUIABCxA1CTGFi7LWDrNWgCcAB4AIABnQGIAbYXkgEEMC4yM5gBAKABAbABCg&sclient=gws-wiz
 
 
 ## FAQ
