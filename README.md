@@ -96,7 +96,7 @@ Queremos deixá-los mais ou menos assim:
 Além do parágrafo, há uma imagem de interrogação dentro do parágrafo. Repare
 que essa imagem aparece duas vezes na página `index.html` e também
 aparece nos outros arquivos, e ela possui uma classe `icone-curiosidade`.
-Estilize de forma que ela:
+Estilize de forma que essa <u>imagem</u>:
 
 1. Flutue à esquerda
 1. Tenha um espaçamento externo (_i.e._, margem) à direita para que o
