@@ -1,8 +1,9 @@
-# cefet-front-end-bees
+# Abelhas
 
 Uma página sobre abelhas e suas castas.
 
 ![Resultado final da prática das abelhas](https://raw.githubusercontent.com/fegemo/cefet-front-end/master/images/pratica-abelhas.png)
+
 
 ## Atividade
 
@@ -10,6 +11,7 @@ Crie um pequeno website com 4 páginas informativas sobre as abelhas e suas
 castas. Dos 4 arquivos HTML que formam o website das abelhas, 3 já estão
 prontinhos e o 4º será criado por você. Além disso, você deve personalizar a
 aparência das páginas usando CSS.
+
 
 ### Exercício 1: _setup_
 
@@ -26,6 +28,7 @@ aparência das páginas usando CSS.
    - A terceira página ainda não existe
 
 [seminal-code]: https://github.com/fegemo/cefet-front-end-bees/archive/master.zip
+
 
 ### Exercício 2: Estilização inicial
 
@@ -64,6 +67,7 @@ Até este ponto, a página inicial deve estar mais ou menos assim:
 
 [id-selector]: https://fegemo.github.io/cefet-front-end/classes/html2/#seletor-de-tag-e-id
 [centering-imgs]: https://fegemo.github.io/cefet-front-end/classes/html2/#centralizando-imagens
+
 
 ### Exercício 3: Estilizando as **"curiosidades"**
 
@@ -144,12 +148,14 @@ essas novas classes, _e.g._:
 }
 ```
 
+
 ### Exercício 5: Parágrafo com _link_ para voltar
 
 Nas páginas `operarias.html` e `zangoes.html` há um parágrafo,
 o último, que contém um _link_ para voltar à página inicial.
 
 Estilize esse parágrafo alinhando-o à direita ([como alinhar texto de um parágrafo?](https://fegemo.github.io/cefet-front-end/classes/html1/#css-alinhamentoTexto)).
+
 
 ### Exercício 6: Criando a página `rainha.html`
 
@@ -183,7 +189,20 @@ Crie a página que está faltando, `rainha.html`, contendo:
 
 
 A imagem da abelha rainha deve flutuar à esquerda, assim como a imagem
-das operárias.
+das operárias:
+
+![Fundo do parágrafo ficou atrás da imagem da rainha](imgs/caso-da-rainha.png)
+
+Repare que, dependendo da largura do navegador, a imagem dos favos de mel
+do parágrafo `.curiosidade` pode ficar atrás da rainha (que flutua).
+
+Isso é normal e esperado para flutuação! Lembre-se: elementos _block_
+ignoram quem está flutuando e apenas "sobe" para ocupar o espaço; e
+os _inline "respeitam" a forma de quem está flutuando.
+
+Portanto, **não é necessário fazer nada** para corrigir isso. Se quiser evitar,
+uma forma seria interromper a flutuação.
+
 
 ### Exercício 7: Incluindo `abelhinhas.js`
 
@@ -199,6 +218,7 @@ Use **<u>esta última</u> opção** e inclua o arquivo `abelhinha.js`
 **logo antes do final do `<body>...</body>`**.
 
 [pesquisa-script]: http://lmgtfy.com/?q=como+inserir+javascript+na+p%C3%A1gina+html
+
 
 ## FAQ
 
