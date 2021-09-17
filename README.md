@@ -27,7 +27,7 @@ aparência das páginas usando CSS.
    - As duas primeiras estão criadas, mas não estilizadas
    - A terceira página ainda não existe
 
-[seminal-code]: https://github.com/fegemo/cefet-front-end-bees/archive/master.zip
+[seminal-code]: https://github.com/fegemo/cefet-front-end-bees/archive/refs/heads/main.zip
 
 
 ### Exercício 2: Estilização inicial
